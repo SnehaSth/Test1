@@ -1,0 +1,49 @@
+body {
+  font-family: "Arial", sans-serif;
+  background-color: #f8f9fa;
+}
+
+.navbar {
+  background-color: #751616;
+  color: white;
+}
+.form-control {
+  background-color: transparent;
+}
+
+.jumbotron {
+  background-color: #751616;
+  color: white;
+  text-align: center;
+  padding: 100px 0;
+  margin-bottom: 0;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.features {
+  padding: 80px 0;
+  background-color: #ffffff;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 20px;
+  justify-content: center;
+}
+.contact-form {
+  background-color: #f8f9fa;
+  padding: 80px 0;
+}
+
+.footer {
+  background-color: #343a40;
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+}
+.btn1{
+  color: black;
+  background-color: #751616;
+  border-color: none;
+
+}
